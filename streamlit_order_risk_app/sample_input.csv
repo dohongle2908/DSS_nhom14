@@ -1,0 +1,4 @@
+Sub-Category,Quantity,Amount,PaymentMode,State,City
+Phones,10,2500,UPI,California,Los Angeles
+Tables,4,1800,COD,Texas,Dallas
+Paper,15,450,Debit Card,New York,New York City
